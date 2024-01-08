@@ -1,5 +1,5 @@
-import turtle as tur
-import colorsys as cs 
+import turtle as tur 
+import colorsys as cs
 tur.setup(800,800)
 tur.speed(0)
 tur.tracer(10)
@@ -16,5 +16,3 @@ for j in range(25):
         tur.circle(50,24)
 tur.hideturtle()
 tur.done()
-
-    
